@@ -64,6 +64,7 @@ mustang.turnOff();
 
 Car.getSpecs(mustang);
 
+
 console.log(mustang.price);
 mustang.price = 4000;
 console.log(mustang.price); 
