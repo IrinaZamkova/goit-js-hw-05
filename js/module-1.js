@@ -1,4 +1,4 @@
-"us direct";
+`use strict`;
 const Account = function (login, email) {
   this.login = login;
   this.email = name;
